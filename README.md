@@ -4,7 +4,7 @@
 
 - Estou estudando na plataforma  [Alura](https://www.alura.com.br)
 - E este é o meu perfil
-- Estou me desenvolvendo na linguagem JawaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a organizçaõ e os compartilhamentos dos meus projets  
 
 
